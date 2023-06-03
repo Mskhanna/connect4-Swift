@@ -18,4 +18,4 @@ This is a simple Connect Four game implemented in Swift using UIKit framework. T
 6. To reset the game, tap the "Reset" button in the alert.
 
 ## Game Demo
-<img src="./screens/vertical.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./screens/horizontal.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./screens/diagonal.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px">
+<img src="screens/vertical.mov" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="screens/horizontal.mov" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./screens/diagonal.mov" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px">
